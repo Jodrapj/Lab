@@ -1,0 +1,90 @@
+﻿<Page x:Class="Lab.Pages.AccountingPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Lab.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AccountingPage"
+      Loaded="Page_Loaded">
+    <Grid>
+        <Menu>
+            <MenuItem Header="Функции" Height="20" >
+                <MenuItem x:Name="SortMenu" Header="Сортировать" Click="SortMenu_Click"/>
+                <MenuItem x:Name="FilterMenu" Header="Фильтровать" Click="FilterMenu_Click"/>
+            </MenuItem>
+        </Menu>
+        <DataGrid x:Name="AccountingLV" x:FieldModifier="public" AutoGenerateColumns="False" IsReadOnly="True" Margin="0,21,0,0">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Entry Number" Binding="{Binding EntryNumber}"/>
+                <DataGridTextColumn Header="Account Number" Binding="{Binding AccountNumber}"/>
+                <DataGridTextColumn Header="Payment Month" Binding="{Binding PaymentMonth}"/>
+                <DataGridTextColumn Header="Rate" Binding="{Binding Rate}"/>
+                <DataGridTextColumn Header="KW Number" Binding="{Binding KWNumber}"/>
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button x:Name="EditBaton"
+                                    Content="Изменить"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Bottom"
+                                    Margin="5"
+                                    Height="30"
+                                    Width="150"
+                                    Click="EditBaton_Click"
+                                    />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Orientation="Horizontal" Grid.Row="1">
+            <Button x:Name="AddBaton" 
+                    HorizontalAlignment="Center" 
+                    VerticalAlignment="Bottom" 
+                    Content="Добавить" 
+                    Margin="5"
+                    Height="30" 
+                    Width="125" 
+                    Click="AddBaton_Click" />
+            <Button x:Name="DelBaton" 
+                    Content="Удалить" 
+                    HorizontalAlignment="Center" 
+                    VerticalAlignment="Bottom" 
+                    Margin="5" Height="30" 
+                    Width="125" 
+                    Click="DelBaton_Click"/>
+            <Button x:Name="RefrBaton" 
+                    Content="Обновить" 
+                    HorizontalAlignment="Center" 
+                    VerticalAlignment="Bottom" 
+                    Margin="5" Height="30" 
+                    Width="125" 
+                    Click="RefrBaton_Click"/>
+            <Button x:Name="BackBaton" 
+                    Content="Назад" 
+                    HorizontalAlignment="Center" 
+                    VerticalAlignment="Bottom" 
+                    Margin="5" 
+                    Height="30" 
+                    Width="125" 
+                    Click="BackBaton_Click"/>
+            <TextBox x:Name="SearchBox" 
+                     HorizontalAlignment="Left" 
+                     VerticalAlignment="Bottom" 
+                     Height="30" 
+                     Width="125"
+                     Margin="5"
+                     TextChanged="SearchBox_TextChanged"/>
+            <Button x:Name="SearchBaton" 
+                    Content="Сортировать" 
+                    HorizontalAlignment="Left" 
+                    VerticalAlignment="Bottom" 
+                    Height="30"
+                    Width="100" 
+                    Margin="5"
+                    Click="SearchBaton_Click"/>
+        </StackPanel>
+    </Grid>
+</Page>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище Database1Model" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="AccountingTable">
+    <Key>
+      <PropertyRef Name="EntryNumber" />
+    </Key>
+    <Property Name="EntryNumber" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="AccountNumber" Type="nchar" MaxLength="10" />
+    <Property Name="PaymentMonth" Type="nchar" MaxLength="10" />
+    <Property Name="Rate" Type="nchar" MaxLength="10" />
+    <Property Name="KWNumber" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="ReferenceTable">
+    <Key>
+      <PropertyRef Name="AccountNumber" />
+    </Key>
+    <Property Name="AccountNumber" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="FullName" Type="nchar" MaxLength="10" />
+    <Property Name="Address" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityContainer Name="Хранилище Database1ModelContainer">
+    <EntitySet Name="AccountingTable" EntityType="Self.AccountingTable" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ReferenceTable" EntityType="Self.ReferenceTable" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

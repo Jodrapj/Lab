@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="Хранилище Database1Model" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="AccountingTable">
+          <Key>
+            <PropertyRef Name="EntryNumber" />
+          </Key>
+          <Property Name="EntryNumber" Type="nchar" MaxLength="10" Nullable="false" />
+          <Property Name="AccountNumber" Type="nchar" MaxLength="10" />
+          <Property Name="PaymentMonth" Type="nchar" MaxLength="10" />
+          <Property Name="Rate" Type="nchar" MaxLength="10" />
+          <Property Name="KWNumber" Type="nchar" MaxLength="10" />
+        </EntityType>
+        <EntityType Name="ReferenceTable">
+          <Key>
+            <PropertyRef Name="AccountNumber" />
+          </Key>
+          <Property Name="AccountNumber" Type="nchar" MaxLength="10" Nullable="false" />
+          <Property Name="FullName" Type="nchar" MaxLength="10" />
+          <Property Name="Address" Type="nchar" MaxLength="10" />
+        </EntityType>
+        <EntityContainer Name="Хранилище Database1ModelContainer">
+          <EntitySet Name="AccountingTable" EntityType="Self.AccountingTable" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="ReferenceTable" EntityType="Self.ReferenceTable" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="Database1Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="AccountingTable">
+          <Key>
+            <PropertyRef Name="EntryNumber" />
+          </Key>
+          <Property Name="EntryNumber" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="AccountNumber" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+          <Property Name="PaymentMonth" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+          <Property Name="Rate" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+          <Property Name="KWNumber" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+        </EntityType>
+        <EntityType Name="ReferenceTable">
+          <Key>
+            <PropertyRef Name="AccountNumber" />
+          </Key>
+          <Property Name="AccountNumber" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="FullName" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+          <Property Name="Address" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+        </EntityType>
+        <EntityContainer Name="DB1Entities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="AccountingTable" EntityType="Self.AccountingTable" />
+          <EntitySet Name="ReferenceTable" EntityType="Self.ReferenceTable" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Хранилище Database1ModelContainer" CdmEntityContainer="DB1Entities">
+          <EntitySetMapping Name="AccountingTable">
+            <EntityTypeMapping TypeName="Database1Model.AccountingTable">
+              <MappingFragment StoreEntitySet="AccountingTable">
+                <ScalarProperty Name="EntryNumber" ColumnName="EntryNumber" />
+                <ScalarProperty Name="AccountNumber" ColumnName="AccountNumber" />
+                <ScalarProperty Name="PaymentMonth" ColumnName="PaymentMonth" />
+                <ScalarProperty Name="Rate" ColumnName="Rate" />
+                <ScalarProperty Name="KWNumber" ColumnName="KWNumber" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ReferenceTable">
+            <EntityTypeMapping TypeName="Database1Model.ReferenceTable">
+              <MappingFragment StoreEntitySet="ReferenceTable">
+                <ScalarProperty Name="AccountNumber" ColumnName="AccountNumber" />
+                <ScalarProperty Name="FullName" ColumnName="FullName" />
+                <ScalarProperty Name="Address" ColumnName="Address" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Нет" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram DiagramId="ca03f387004742be92db7fd024e55083" Name="Diagram1">
+        <EntityTypeShape EntityType="Database1Model.AccountingTable" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.ReferenceTable" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+      </Diagram>
+    </Diagrams>
+  </Designer>
+</edmx:Edmx>

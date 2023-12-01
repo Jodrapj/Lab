@@ -1,0 +1,204 @@
+C:\Users\Введите имя\source\repos\Lab\obj\Debug\Lab.csproj.AssemblyReference.cache
+C:\Users\Введите имя\source\repos\Lab\obj\Debug\MainWindow.g.cs
+C:\Users\Введите имя\source\repos\Lab\obj\Debug\Pages\AccountingPage.g.cs
+C:\Users\Введите имя\source\repos\Lab\obj\Debug\Pages\MainPage.g.cs
+C:\Users\Введите имя\source\repos\Lab\obj\Debug\Pages\ReferencePage.g.cs
+C:\Users\Введите имя\source\repos\Lab\obj\Debug\App.g.cs
+C:\Users\Введите имя\source\repos\Lab\obj\Debug\Lab_Content.g.cs
+C:\Users\Введите имя\source\repos\Lab\obj\Debug\Lab_MarkupCompile.cache
+C:\Users\Введите имя\source\repos\Lab\obj\Debug\Lab_MarkupCompile.lref
+C:\Users\Введите имя\source\repos\Lab\bin\Debug\Database1.mdf
+C:\Users\Введите имя\source\repos\Lab\bin\Debug\Database1_log.ldf
+C:\Users\Введите имя\source\repos\Lab\bin\Debug\Lab.exe.config
+C:\Users\Введите имя\source\repos\Lab\bin\Debug\Lab.exe
+C:\Users\Введите имя\source\repos\Lab\bin\Debug\Lab.pdb
+C:\Users\Введите имя\source\repos\Lab\bin\Debug\EntityFramework.dll
+C:\Users\Введите имя\source\repos\Lab\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Введите имя\source\repos\Lab\bin\Debug\EntityFramework.xml
+C:\Users\Введите имя\source\repos\Lab\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Введите имя\source\repos\Lab\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Введите имя\source\repos\Lab\obj\Debug\MainWindow.baml
+C:\Users\Введите имя\source\repos\Lab\obj\Debug\Pages\AccountingPage.baml
+C:\Users\Введите имя\source\repos\Lab\obj\Debug\Pages\MainPage.baml
+C:\Users\Введите имя\source\repos\Lab\obj\Debug\Pages\ReferencePage.baml
+C:\Users\Введите имя\source\repos\Lab\obj\Debug\Lab.g.resources
+C:\Users\Введите имя\source\repos\Lab\obj\Debug\Lab.Properties.Resources.resources
+C:\Users\Введите имя\source\repos\Lab\obj\Debug\Lab.csproj.GenerateResource.cache
+C:\Users\Введите имя\source\repos\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+C:\Users\Введите имя\source\repos\Lab\obj\Debug\Lab.csproj.CopyComplete
+C:\Users\Введите имя\source\repos\Lab\obj\Debug\Lab.exe
+C:\Users\Введите имя\source\repos\Lab\obj\Debug\Lab.pdb
+C:\Users\Введите имя\source\repos\Lab\obj\Debug\Pages\AddEditAcc.g.cs
+C:\Users\Введите имя\source\repos\Lab\obj\Debug\Pages\AddEditRef.g.cs
+C:\Users\Введите имя\source\repos\Lab\obj\Debug\Pages\SearchPage.g.cs
+C:\Users\Введите имя\source\repos\Lab\obj\Debug\Pages\AddEditAcc.baml
+C:\Users\Введите имя\source\repos\Lab\obj\Debug\Pages\AddEditRef.baml
+C:\Users\Введите имя\source\repos\Lab\obj\Debug\Pages\SearchPage.baml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\Database1.mdf
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\Database1_log.ldf
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\Lab.exe.config
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\Lab.exe
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\Lab.pdb
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\EntityFramework.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\EntityFramework.xml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Jodrapj\source\repos\Lab\obj\Debug\Lab.csproj.AssemblyReference.cache
+C:\Users\Jodrapj\source\repos\Lab\obj\Debug\Lab.csproj.ResolveComReference.cache
+C:\Users\Jodrapj\source\repos\Lab\obj\Debug\MainWindow.g.cs
+C:\Users\Jodrapj\source\repos\Lab\obj\Debug\Pages\AccountingPage.g.cs
+C:\Users\Jodrapj\source\repos\Lab\obj\Debug\Pages\AddEditAcc.g.cs
+C:\Users\Jodrapj\source\repos\Lab\obj\Debug\Pages\AddEditRef.g.cs
+C:\Users\Jodrapj\source\repos\Lab\obj\Debug\Pages\ExportBox.g.cs
+C:\Users\Jodrapj\source\repos\Lab\obj\Debug\Pages\MainPage.g.cs
+C:\Users\Jodrapj\source\repos\Lab\obj\Debug\Pages\ReferencePage.g.cs
+C:\Users\Jodrapj\source\repos\Lab\obj\Debug\App.g.cs
+C:\Users\Jodrapj\source\repos\Lab\obj\Debug\Lab_Content.g.cs
+C:\Users\Jodrapj\source\repos\Lab\obj\Debug\Lab_MarkupCompile.cache
+C:\Users\Jodrapj\source\repos\Lab\obj\Debug\Lab_MarkupCompile.lref
+C:\Users\Jodrapj\source\repos\Lab\obj\Debug\MainWindow.baml
+C:\Users\Jodrapj\source\repos\Lab\obj\Debug\Pages\AccountingPage.baml
+C:\Users\Jodrapj\source\repos\Lab\obj\Debug\Pages\AddEditAcc.baml
+C:\Users\Jodrapj\source\repos\Lab\obj\Debug\Pages\AddEditRef.baml
+C:\Users\Jodrapj\source\repos\Lab\obj\Debug\Pages\ExportBox.baml
+C:\Users\Jodrapj\source\repos\Lab\obj\Debug\Pages\MainPage.baml
+C:\Users\Jodrapj\source\repos\Lab\obj\Debug\Pages\ReferencePage.baml
+C:\Users\Jodrapj\source\repos\Lab\obj\Debug\Lab.g.resources
+C:\Users\Jodrapj\source\repos\Lab\obj\Debug\Lab.Properties.Resources.resources
+C:\Users\Jodrapj\source\repos\Lab\obj\Debug\Lab.csproj.GenerateResource.cache
+C:\Users\Jodrapj\source\repos\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+C:\Users\Jodrapj\source\repos\Lab\obj\Debug\Lab.csproj.CopyComplete
+C:\Users\Jodrapj\source\repos\Lab\obj\Debug\Lab.exe
+C:\Users\Jodrapj\source\repos\Lab\obj\Debug\Lab.pdb
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\itext.barcodes.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\itext.commons.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\itext.forms.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\itext.io.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\itext.kernel.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\itext.layout.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\itext.pdfa.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\itext.sign.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\itext.svg.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\System.Buffers.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\System.Memory.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\System.ValueTuple.dll
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\itext.barcodes.xml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\itext.commons.xml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\itext.forms.xml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\itext.io.xml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\itext.kernel.xml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\itext.layout.xml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\itext.pdfa.xml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\itext.sign.xml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\itext.svg.xml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\System.Buffers.xml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\System.Memory.xml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jodrapj\source\repos\Lab\bin\Debug\System.ValueTuple.xml
+D:\REPOS\Lab\bin\Debug\Database1.mdf
+D:\REPOS\Lab\bin\Debug\Database1_log.ldf
+D:\REPOS\Lab\bin\Debug\Lab.exe.config
+D:\REPOS\Lab\bin\Debug\Lab.exe
+D:\REPOS\Lab\bin\Debug\Lab.pdb
+D:\REPOS\Lab\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\REPOS\Lab\bin\Debug\BouncyCastle.Crypto.dll
+D:\REPOS\Lab\bin\Debug\EntityFramework.dll
+D:\REPOS\Lab\bin\Debug\EntityFramework.SqlServer.dll
+D:\REPOS\Lab\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\REPOS\Lab\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\REPOS\Lab\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\REPOS\Lab\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\REPOS\Lab\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\REPOS\Lab\bin\Debug\Microsoft.Extensions.Options.dll
+D:\REPOS\Lab\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\REPOS\Lab\bin\Debug\Newtonsoft.Json.dll
+D:\REPOS\Lab\bin\Debug\System.Buffers.dll
+D:\REPOS\Lab\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\REPOS\Lab\bin\Debug\System.Memory.dll
+D:\REPOS\Lab\bin\Debug\System.Numerics.Vectors.dll
+D:\REPOS\Lab\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\REPOS\Lab\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\REPOS\Lab\bin\Debug\System.ValueTuple.dll
+D:\REPOS\Lab\bin\Debug\BitMiracle.LibTiff.NET.xml
+D:\REPOS\Lab\bin\Debug\EntityFramework.xml
+D:\REPOS\Lab\bin\Debug\EntityFramework.SqlServer.xml
+D:\REPOS\Lab\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\REPOS\Lab\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\REPOS\Lab\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\REPOS\Lab\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\REPOS\Lab\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\REPOS\Lab\bin\Debug\Microsoft.Extensions.Options.xml
+D:\REPOS\Lab\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\REPOS\Lab\bin\Debug\Newtonsoft.Json.xml
+D:\REPOS\Lab\bin\Debug\System.Buffers.xml
+D:\REPOS\Lab\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\REPOS\Lab\bin\Debug\System.Memory.xml
+D:\REPOS\Lab\bin\Debug\System.Numerics.Vectors.xml
+D:\REPOS\Lab\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\REPOS\Lab\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\REPOS\Lab\bin\Debug\System.ValueTuple.xml
+D:\REPOS\Lab\bin\Debug\ru\EntityFramework.resources.dll
+D:\REPOS\Lab\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\REPOS\Lab\obj\Debug\Lab.csproj.AssemblyReference.cache
+D:\REPOS\Lab\obj\Debug\Lab.csproj.ResolveComReference.cache
+D:\REPOS\Lab\obj\Debug\MainWindow.g.cs
+D:\REPOS\Lab\obj\Debug\Pages\AccountingPage.g.cs
+D:\REPOS\Lab\obj\Debug\Pages\AddEditAcc.g.cs
+D:\REPOS\Lab\obj\Debug\Pages\AddEditRef.g.cs
+D:\REPOS\Lab\obj\Debug\Pages\ExportBox.g.cs
+D:\REPOS\Lab\obj\Debug\Pages\MainPage.g.cs
+D:\REPOS\Lab\obj\Debug\Pages\ReferencePage.g.cs
+D:\REPOS\Lab\obj\Debug\App.g.cs
+D:\REPOS\Lab\obj\Debug\Lab_Content.g.cs
+D:\REPOS\Lab\obj\Debug\Lab_MarkupCompile.cache
+D:\REPOS\Lab\obj\Debug\Lab_MarkupCompile.lref
+D:\REPOS\Lab\obj\Debug\MainWindow.baml
+D:\REPOS\Lab\obj\Debug\Pages\AccountingPage.baml
+D:\REPOS\Lab\obj\Debug\Pages\AddEditAcc.baml
+D:\REPOS\Lab\obj\Debug\Pages\AddEditRef.baml
+D:\REPOS\Lab\obj\Debug\Pages\ExportBox.baml
+D:\REPOS\Lab\obj\Debug\Pages\MainPage.baml
+D:\REPOS\Lab\obj\Debug\Pages\ReferencePage.baml
+D:\REPOS\Lab\obj\Debug\Lab.g.resources
+D:\REPOS\Lab\obj\Debug\Lab.Properties.Resources.resources
+D:\REPOS\Lab\obj\Debug\Lab.csproj.GenerateResource.cache
+D:\REPOS\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+D:\REPOS\Lab\obj\Debug\Lab.csproj.CopyComplete
+D:\REPOS\Lab\obj\Debug\Lab.exe
+D:\REPOS\Lab\obj\Debug\Lab.pdb
+D:\REPOS\Lab\bin\Debug\BouncyCastle.Cryptography.dll
+D:\REPOS\Lab\bin\Debug\BouncyCastle.Cryptography.xml
+D:\REPOS\Lab\bin\Debug\itextsharp.dll
+D:\REPOS\Lab\bin\Debug\itextsharp.xml
